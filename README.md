@@ -86,7 +86,7 @@ I'm a full stack developer with a strong foundation in PHP/Laravel and a growing
 
 - 📧 [austin.xu.me@gmail.com](mailto:austin.xu.me@gmail.com)
 - 🌐 [austinxu-dev.github.io](https://austinxu-dev.github.io/)
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pyae-phyo-aung-a02a971b6/)
 
 ---
 
